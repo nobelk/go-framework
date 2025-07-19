@@ -8,6 +8,12 @@
 *.so
 *.dylib
 
+# Binary
+go-framework
+
+# Idea configuration
+.idea/
+
 # Test binary, built with `go test -c`
 *.test
 
